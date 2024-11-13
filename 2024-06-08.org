@@ -1,0 +1,12 @@
+:PROPERTIES:
+:ID:       95f2249f-dd7d-4cc8-8b33-e68f00e86bbd
+:END:
+#+title: 2024-06-08
+* DONE run 10km
+* DONE 10 min Abs
+* DONE [#A] Book Thailand Tickets
+SCHEDULED: <2024-06-08 Sat>
+* DONE [#A] Book Hotels
+SCHEDULED: <2024-06-08 Sat>
+* DONE [#C] Finish logseq link converter fork
+SCHEDULED: <2024-06-08 Sat>

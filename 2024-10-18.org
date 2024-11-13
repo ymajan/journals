@@ -1,0 +1,5 @@
+:PROPERTIES:
+:ID:       f4033ad3-cf59-414a-908a-71ff936ff8a2
+:END:
+#+title: 2024-10-18
+* TODO [[https://vtimofeenko.com/posts/my-doom-emacs-setup/#gtd-process-implementation][emacs workflow example]]

@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       75d6161b-a901-4203-b869-a509698cb1e3
+:END:
+#+title: 2024-09-28
+
+* DONE get org-gcal setup
+* DONE go to check out used clubs
+** Miura irons
+*** if not, then Mizuno
+** hybrid
+** driver

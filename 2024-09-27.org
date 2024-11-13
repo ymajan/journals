@@ -1,0 +1,14 @@
+:PROPERTIES:
+:ID:       f401211d-3512-4194-acd2-4424fb99784d
+:END:
+#+title: 2024-09-27
+
+* DONE call [[https://www.karpovorthodontics.com/contactlocations][karpov ortho]] for sfot
+** Wednesday 11am upper side nyc $85
+* DONE call [[https://www.drlenadentistry.com/accelerated-orthodontics-nyc.html/][lena dentistry nyc]]
+** letter for sam morhame detailing treatment plan
+* CANCELED call [[https://www.periodonticsandimplantcenterny.com/surgical-orthodontics/][periodontics and implants center nyc]]
+** too far
+* CANCELED fix [[id:67e1af99-e547-445d-a0b5-7e3fca41e48c][neetcode]]
+* DONE understand notmuch email config
+*

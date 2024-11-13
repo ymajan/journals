@@ -1,0 +1,10 @@
+:PROPERTIES:
+:ID:       05e38212-5270-4159-bfad-5af34590833d
+:END:
+#+title: 2024-06-29
+* DONE order aliexpress uv camera, mirror, and mask
+SCHEDULED: <2024-06-29 Sat>
+* DONE pack meds
+* DONE order dutasteride and omega
+SCHEDULED: <2024-06-30 Sun>
+*

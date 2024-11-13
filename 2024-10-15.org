@@ -1,0 +1,19 @@
+:PROPERTIES:
+:ID:       e2ba8c7d-07f3-4205-a357-bc5bd446a50d
+:END:
+#+title: 2024-10-15
+
+* DONE reschedule sylvan
+SCHEDULED: <2024-10-15 Tue>
+* DONE switch nvidia into asml
+SCHEDULED: <2024-10-15 Tue>
+* DONE figure out Mom's gift
+SCHEDULED: <2024-10-15 Tue>
+* DONE laundry
+SCHEDULED: <2024-10-15 Tue>
+* DONE Follow up Mom with gen physician on trt
+SCHEDULED: <2024-10-15 Tue>
+* DONE take count of meds
+SCHEDULED: <2024-10-15 Tue>
+* DONE fill meds
+SCHEDULED: <2024-10-15 Tue>

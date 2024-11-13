@@ -1,0 +1,31 @@
+:PROPERTIES:
+:ID:       86ae5070-c159-4613-97fe-9ff8b38c000d
+:END:
+#+title: 2024-09-06
+
+* DONE amazon returns
+:PROPERTIES:
+:logseq.order-list-type: number
+:END:
+** wrench
+:PROPERTIES:
+:logseq.order-list-type: number
+:END:
+** b plus puck, battery charger, and chain lock
+:PROPERTIES:
+:logseq.order-list-type: number
+:END:
+* DONE order Dad's gift
+* DONE order dr. benschick's gift
+:LOGBOOK:
+CLOCK: [2024-09-06 Fri 15:48:21]
+CLOCK: [2024-09-06 Fri 15:48:26]--[2024-09-06 Fri 16:08:45] =>  00:20:19
+:END:
+* DONE book saratoga for dad's birthday
+* DONE pick up single malt whiskey for Dr. Banschick Harry
+DEADLINE: <2024-09-18 Wed>
+* DONE follow up on bungalow res for september 20th
+* DONE return bike rear rack
+* :LOGBOOK:
+CLOCK: [2024-09-06 Fri 22:56:39]
+:END:

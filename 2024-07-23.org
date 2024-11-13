@@ -1,0 +1,13 @@
+:PROPERTIES:
+:ID:       685b4787-085a-402e-bd6b-12591a51e9a3
+:END:
+#+title: 2024-07-23
+* DONE go cherry st market before closing and get food
+DEADLINE: <2024-07-23 Tue 19:30>
+* DONE Charge Whoop tonight
+SCHEDULED: <2024-07-23 Tue 21:30>
+:LOGBOOK:
+CLOCK: [2024-07-24 Wed 00:12:58]--[2024-07-24 Wed 00:20:41] =>  00:07:43
+:END:
+* DONE put clothes away
+SCHEDULED: <2024-07-24 Wed>

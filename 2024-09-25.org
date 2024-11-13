@@ -1,0 +1,6 @@
+:PROPERTIES:
+:ID:       96949633-bcc6-446e-b186-fe7569a771f4
+:END:
+#+title: 2024-09-25
+
+* setup org habit tracking

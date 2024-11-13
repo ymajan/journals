@@ -1,0 +1,6 @@
+:PROPERTIES:
+:ID:       da7ebd79-5bfa-4e4c-9f08-9e0d20c66423
+:END:
+#+title: 2024-07-06
+* DONE research ebay
+SCHEDULED: <2024-07-08 Mon>

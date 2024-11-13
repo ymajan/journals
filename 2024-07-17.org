@@ -1,0 +1,25 @@
+:PROPERTIES:
+:ID:       10c025e5-2cc3-4cd6-a7f8-43e58b536812
+:END:
+#+title: 2024-07-17
+* DONE Charge whoop
+SCHEDULED: <2024-07-18 Thu>
+* DONE Plan Rome
+:PROPERTIES:
+:collapsed: true
+:END:
+:LOGBOOK:
+CLOCK: [2024-07-17 Wed 18:58:53]--[2024-07-18 Thu 00:47:03] =>  05:48:10
+CLOCK: [2024-07-18 Thu 00:47:03]--[2024-07-18 Thu 00:47:05] =>  00:00:02
+:END:
+** DONE Map Spots
+:LOGBOOK:
+CLOCK: [2024-07-17 Wed 18:59:07]--[2024-07-17 Wed 19:06:06] =>  00:06:59
+:END:
+** Spots
+*** DONE Book Pantheon
+:LOGBOOK:
+CLOCK: [2024-07-17 Wed 22:54:53]--[2024-07-18 Thu 00:47:22] =>  01:52:29
+:END:
+*** DONE Book Baths of Caracalla
+*** DONE Book Assassination Spot

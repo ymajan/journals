@@ -1,0 +1,17 @@
+:PROPERTIES:
+:ID:       7f2eb57b-ca67-4eef-bbb3-a11753cb60d5
+:END:
+#+title: 2024-08-15
+* DONE Call BMW
+* DONE Call Strictly Bicycles
+:PROPERTIES:
+:collapsed: true
+:END:
+** to get:
+:PROPERTIES:
+:collapsed: true
+:END:
+*** kickstand
+*** handlebar
+*** Tune-Up
+*** rear view mirror

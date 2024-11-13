@@ -1,0 +1,26 @@
+:PROPERTIES:
+:ID:       5b908fb1-065d-4010-9588-a1b8a70f5b07
+:END:
+#+title: 2024-06-11
+
+* Today's Plan:
+** 1. Check in
+** 2. Walk Around
+** 3. CVS:
+*** Toothpaste
+*** Cleanser
+*** Sunscreen
+* Task List:
+** DONE [#A] Exchange money
+SCHEDULED: <2024-06-11 Tue>
+** DONE [#B] Buy esim
+SCHEDULED: <2024-06-11 Tue>
+** DONE Talk to Shoan
+SCHEDULED: <2024-06-11 Tue>
+** DONE Figure out Hotels after
+SCHEDULED: <2024-06-11 Tue>
+** DONE Meet up with Nop and plan more
+SCHEDULED: <2024-06-11 Tue>
+* CANCELLED Organize YouTube subs
+** DONE Sub to the [[https://m.youtube.com/@TheJawComplex/videos][Jawcomplex]] 🤫
+* DONE Finish Elisp Intro Tutorial

@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       7a494dfc-b043-4a63-ad33-7b92c7619505
+:END:
+#+title: 2024-07-22
+* DONE Measure and Track water
+SCHEDULED: <2024-07-24 Wed>
+* DONE Return Passport
+SCHEDULED: <2024-07-23 Tue>
+:LOGBOOK:
+CLOCK: [2024-07-23 Tue 08:34:15]--[2024-07-23 Tue 10:11:42] =>  01:37:27
+:END:
+* DONE Pack Meds
+SCHEDULED: <2024-07-24 Wed>
+* DONE Fix Wallet with ID
+SCHEDULED: <2024-07-24 Wed>
+* Gym Trials
+** https://maps.app.goo.gl/6SEk4NKN7nmENJYN8
+** https://maps.app.goo.gl/SXt61dasyWMbSrAe7
+** Gym Hub
+** UFC GYM
+** Equinox
+** Cambridge Strength and Conditioning

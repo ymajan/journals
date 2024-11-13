@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       504f782f-ac89-401c-8807-b45c6f42b250
+:END:
+#+title: 2024-07-15
+* DONE Figure out Marseille, France itinerary
+SCHEDULED: <2024-07-15 Mon 20:15>
+* DONE Marseille
+SCHEDULED: <2024-07-16 Tue>
+:PROPERTIES:
+:collapsed: true
+:END:
+** Marseille Soap made of vegetable jokes
+** Basilica of Notre Dame in Old Port
+** Count of monte cristo castle
+*** château d'If
+** Tarot de Marseille card deck
+** Food bouillabaisse
+** Fougasse provenc
+** Farinata blocked chickpea flour fried
+** Pastis alc drink
+** Pistou pasta olive oil garlic type combo
+** Tapenade

@@ -1,0 +1,6 @@
+:PROPERTIES:
+:ID:       d6e7dc32-efb2-4360-bf87-c5a8ffcb36df
+:END:
+#+title: 2024-09-15
+* DONE finish anki psets
+*

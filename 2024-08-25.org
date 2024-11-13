@@ -1,0 +1,7 @@
+:PROPERTIES:
+:ID:       ce4935be-7617-4117-9041-5dcd3d479192
+:END:
+#+title: 2024-08-25
+* DONE Pick up meds
+SCHEDULED: <2024-08-28 Wed>
+*

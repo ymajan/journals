@@ -1,0 +1,27 @@
+:PROPERTIES:
+:ID:       92c9b65b-2b73-4975-a459-fae0958973b7
+:END:
+#+title: 2024-10-29
+
+* task list when home
+:PROPERTIES:
+:collapsed: true
+:END:
+** Diwali
+*** DONE call fam for dhanteras
+** grooming
+*** DONE cut nails
+*** DONE shower
+** packing list
+*** DONE denji costume
+*** DONE pack black tie
+*** DONE pack elizabeth costume
+*** DONE golf clubs
+** DONE prick blood and microplastics fill out
+** DONE pack meds
+** DONE pack fiber
+** DONE pack neuromint
+** DONE pack pens/pencils
+** DONE pack whoop and chargers
+** DONE pack skincare and haircare
+*

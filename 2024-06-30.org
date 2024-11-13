@@ -1,0 +1,6 @@
+:PROPERTIES:
+:ID:       d802214d-6532-429a-b8c2-93f6ba782cb2
+:END:
+#+title: 2024-06-30
+* DONE Pick up dut, Tacro, aml cvs pharmacy fletcher
+SCHEDULED: <2024-07-07 Sun>

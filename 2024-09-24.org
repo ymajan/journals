@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       01f6cbb8-d5a4-4e8c-8745-9996f46e5aec
+:END:
+#+title: 2024-09-24
+
+* DONE we fixed emacs logseq integration
+:LOGBOOK:
+CLOCK: [2024-09-24 Tue 21:46:15]--[2024-09-24 Tue 21:46:16] =>  00:00:01
+CLOCK: [2024-09-24 Tue 21:46:18]--[2024-09-25 Wed 19:57:11] =>  22:10:53
+:END:
+*

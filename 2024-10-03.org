@@ -1,0 +1,31 @@
+:PROPERTIES:
+:ID:       4dda1bcc-f8e7-4a2f-b1d0-33d502422878
+:END:
+#+title: 2024-10-03
+
+* DONE reschedule cardio visit from 11/11 (Mom's birthday)
+SCHEDULED: <2024-10-02 Wed>
+:LOGBOOK:
+CLOCK: [2024-10-03 Thu 14:36:25]--[2024-10-03 Thu 14:44:23] =>  00:07:58
+:END:
+* DONE get referral for Dr. Sam Morhain
+:PROPERTIES:
+:collapsed: true
+:END:
+** Letter includes
+** Doctor info
+** Phone number
+* DONE order jumbo max grips
+* DONE order the little one pitching wedge
+* DONE order tour striker pro 7 iron
+* DONE Ordered Purnimaben's Shoes
+* DONE call and let Runa know about two consultations
+* DONE reschedule Sylvan eyecare appointment
+* DONE  Letter insurance info full set of teeth x ray Phillip kang
+* DONE check if ok to go boston two weeks end of october
+:PROPERTIES:
+:collapsed: true
+:END:
+** DONE reschedule derm for later or earlier depening on Mom's answer
+**
+*

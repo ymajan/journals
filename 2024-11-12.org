@@ -1,0 +1,4 @@
+:PROPERTIES:
+:ID:       7636f864-f3d4-476b-a257-c0142272bcf8
+:END:
+* does org-roam-dailies work now?

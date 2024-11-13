@@ -1,0 +1,14 @@
+:PROPERTIES:
+:ID:       ed5c1818-6758-46c4-8c10-9f65509d87a2
+:END:
+#+title: 2024-10-14
+* DONE cancel tribeca dental
+* DONE order insoles
+* DONE call Nanu
+* DONE order chai patti
+* DONE set Nanu's testosterone doctor appoi
+* DONE order high capacity charger
+:LOGBOOK:
+CLOCK: [2024-10-14 Mon 12:37:08]--[2024-10-14 Mon 17:48:00] =>  05:10:52
+:END:
+* DONE order magsafe upgrade stand

@@ -1,0 +1,13 @@
+:PROPERTIES:
+:ID:       377db243-36e4-418e-952b-72f7cb07af1d
+:END:
+#+title: 2024-09-09
+
+*
+* DONE fix bike
+SCHEDULED: <2024-09-10 Tue>
+* DONE pack bags
+SCHEDULED: <2024-09-10 Tue>
+* DONE return rear rack
+SCHEDULED: <2024-09-10 Tue>
+*

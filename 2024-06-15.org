@@ -1,0 +1,6 @@
+:PROPERTIES:
+:ID:       d74e77a0-e27f-4d9b-884b-13b6a741996b
+:END:
+#+title: 2024-06-15
+* DONE move out of SQ Boutique
+SCHEDULED: <2024-06-15 Sat>

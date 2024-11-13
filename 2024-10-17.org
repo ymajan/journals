@@ -1,0 +1,14 @@
+:PROPERTIES:
+:ID:       d97d385f-040f-48a3-ab00-6082496d58e7
+:END:
+#+title: 2024-10-17
+
+* DONE pick up indian flour
+SCHEDULED: <2024-10-17 Thu>
+* DONE get quote on bmw
+SCHEDULED: <2024-10-17 Thu>
+* DONE pick up meds from cvs
+SCHEDULED: <2024-10-15 Tue>
+* DONE research qualcomm and aptv for long term buy
+SCHEDULED: <2024-10-17 Thu>
+*

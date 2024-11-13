@@ -1,0 +1,12 @@
+:PROPERTIES:
+:ID:       773c35b9-84dd-4b7d-bbd5-6d173df93002
+:END:
+#+title: 2024-06-28
+* DONE Clean Room
+SCHEDULED: <2024-06-28 Fri>
+* DONE Figure out wifi
+SCHEDULED: <2024-06-29 Sat>
+* DONE Global Entry interview on arrival
+SCHEDULED: <2024-06-28 Fri>
+* DONE Charge whoop
+SCHEDULED: <2024-06-28 Fri>

@@ -1,0 +1,7 @@
+:PROPERTIES:
+:ID:       8af4445f-9821-4a8b-9e58-a92c5b837e78
+:END:
+#+title: 2024-08-29
+* DONE Test Bike lock and return other one
+* DONE return bike lock and drill charger
+*

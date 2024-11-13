@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       baf34c78-9491-49c5-b7ee-2455af1ec248
+:END:
+#+title: 2024-07-07
+* DONE Pack meds
+SCHEDULED: <2024-07-07 Sun>
+* Trip Planning
+** DONE Read Trip
+SCHEDULED: <2024-07-08 Mon>
+** DONE Update Gcal w Trip info
+SCHEDULED: <2024-07-08 Mon>
+** DONE Research Excursions
+SCHEDULED: <2024-07-12 Fri>
+** DONE Coordinate w Sammy excursions
+SCHEDULED: <2024-07-12 Fri>
+** DONE Pack Bags
+SCHEDULED: <2024-07-10 Wed>
+* DONE unbrick ereader
+SCHEDULED: <2024-07-24 Wed>
+* DONE Follow up with Shoes
+DEADLINE: <2024-07-23 Tue>
+** report credit card charge

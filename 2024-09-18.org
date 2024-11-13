@@ -1,0 +1,12 @@
+:PROPERTIES:
+:ID:       8871e425-8df1-4cbf-93ba-d0be703b1fe5
+:END:
+#+title: 2024-09-18
+
+* DONE check stocks
+* DONE buy benschick single malt whiskey
+* DONE buy michelle flowers
+* DONE fill meds
+* DONE understand and set up [[https://github.com/ymajan/logseq-link-converter][logseq-link-converter]]
+*
+*

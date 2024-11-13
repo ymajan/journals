@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       bbefc49e-3419-4a36-bbea-0bf089802b07
+:END:
+#+title: 2024-10-10
+
+* DONE transfer over passwords into bitwarden
+:LOGBOOK:
+CLOCK: [2024-10-10 Thu 17:18:29]--[2024-10-10 Thu 19:14:48] =>  01:56:19
+:END:
+** DONE organize bitwarden passwords
+** DONE finish and delete all 1password

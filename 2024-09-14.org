@@ -1,0 +1,9 @@
+:PROPERTIES:
+:ID:       50218fd0-ef9c-4a2d-98e2-056338cd3adf
+:END:
+#+title: 2024-09-14
+
+*
+* DONE call Roona and confirm appointment
+SCHEDULED: <2024-09-15 Sun>
+*

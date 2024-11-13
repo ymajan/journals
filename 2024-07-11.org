@@ -1,0 +1,10 @@
+:PROPERTIES:
+:ID:       4ee63783-03c0-4221-8dcf-a4e8aa589544
+:END:
+#+title: 2024-07-11
+* DONE pack detergent and wall plug
+SCHEDULED: <2024-07-11 Thu>
+* DONE Go dentist
+SCHEDULED: <2024-07-11 Thu>
+* DONE use Shoan's card
+SCHEDULED: <2024-07-11 Thu>
