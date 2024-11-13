@@ -1,2 +1,2 @@
-# refs
-my zotero references
+# journals
+my daily struggles
